@@ -1,5 +1,5 @@
 ﻿
-Color = 0xC14F4F
+Color = #FF0000
 
 *~$e::
 While GetKeyState("e", "P")
